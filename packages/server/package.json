@@ -23,7 +23,7 @@
     "server-repository": "workspace:*"
   },
   "devDependencies": {
-    "@sinclair/typebox": "^0.32.28",
+    "@sinclair/typebox": "^0.33.7",
     "@types/bun": "^1.1.6",
     "neonctl": "^1.30.0",
     "tsconfig": "workspace:*"
